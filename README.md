@@ -4,7 +4,7 @@
   <tr>
     <td width="25%" align="center"><img src="./xtreme-portrait.svg" alt="Sushil’s portrait with a breathing gold ring" width="150"></td>
     <td width="75%">
-      <strong>Sushil · XTREME</strong><br>
+      <strong>Sushil</strong><br>
       Technical art · Game design &amp; programming · C++ · C#<br>
       Web development · API · QA &amp; test automation<br><br>
       <a href="https://github.com/Sushil045?tab=repositories">Browse repositories</a> · <a href="https://github.com/Sushil045#js-contribution-activity">GitHub activity</a>
@@ -19,18 +19,31 @@
 | **Dofida** | A cinematic web portfolio built with React and TypeScript, with a custom GLSL nebula and scroll-driven scenes. |
 | **[Cybersecurity portfolio](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site)** | Portfolio design and development for a cybersecurity professional. |
 | **Personal portfolio** | Portfolio website design and development. |
-| **Crypto Wallet** | A software project exploring cryptocurrency wallets. |
+| **Crypto Wallet** | Designed Figma prototypes and manually tested transfers, QR scanning, and transaction history for an Ethereum wallet on web and mobile (Jun 2024–Mar 2025). |
 
 ## About me
 
-I'm Sushil, and I go by **XTREME** here. I'm learning how games go from an idea to something you can play, from game design and programming to technical art. I'm also pursuing web development and quality assurance (QA).
+I'm Sushil. I'm learning how games go from an idea to something you can play, from game design and programming to technical art. I'm also pursuing web development and quality assurance (QA).
 
-**Global Step** · Game testing internship
+## Experience
+
+**Game Test Engineer Intern · Global Step, Pune**  
+April–October 2024
+
+- Ran manual functional tests across PC, consoles, web, iOS, and Android.
+- Created and ran test cases, including smoke and regression tests, to validate new features.
+- Documented defects and shared feedback with cross-functional teams during release testing.
+
+## Education
+
+**B.E. in Computer Science** · Savitribai Phule Pune University, June 2025
+
+[LinkedIn](https://www.linkedin.com/in/sushil-pawle-b1b7962b0/)
 
 ## Skills
 
 | Area | Focus |
 | :-- | :-- |
-| **Games** | Technical art, game design, game programming, C++, C# |
-| **Web** | Web development, UI/UX, API work on Dofida |
-| **QA** | Game testing, quality assurance, test automation |
+| **Games** | Technical art, game design, game programming, Unreal Engine 5, Unity 6, Blender, C++, C# |
+| **Web** | Web development, UI/UX, API work on Dofida, Python, MySQL, Figma |
+| **QA** | Manual testing, test case design, regression and compatibility testing, game performance and network testing, Jira, TestRail, and test automation |
