@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="176" viewBox="0 0 800 176" role="img" aria-labelledby="title">
+  <title id="title">XTREME</title>
+  <defs>
+    <radialGradient id="halo">
+      <stop stop-color="#397ef5" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#397ef5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .pulse { opacity: .44; }
+    @media (prefers-reduced-motion: no-preference) {
+      .pulse { animation: breathe 5s ease-in-out infinite; }
+    }
+    @keyframes breathe { 0%, 100% { opacity: .22; } 50% { opacity: .95; } }
+  </style>
+  <rect x="1" y="1" width="798" height="174" rx="15" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g class="pulse">
+    <ellipse cx="400" cy="86" rx="305" ry="78" fill="url(#halo)"/>
+    <path d="M344 127h112" stroke="#58a6ff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="404" y="103" text-anchor="middle" fill="#edf4ff" font-family="system-ui, sans-serif" font-size="54" font-weight="800" letter-spacing="8">XTREME</text>
+</svg>
