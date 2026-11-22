@@ -1,32 +1,35 @@
 <h1 align="center"><img src="./xtreme-breathing.svg" alt="XTREME" width="800"></h1>
 
-<p align="center"><img src="./xtreme-portrait.svg" alt="Sushil’s portrait with a breathing gold ring" width="176"></p>
+<table>
+  <tr>
+    <td width="25%" align="center"><img src="./xtreme-portrait.svg" alt="Sushil’s portrait with a breathing gold ring" width="150"></td>
+    <td width="75%">
+      <strong>Sushil · XTREME</strong><br>
+      Technical art · Game design &amp; programming · C++ · C#<br>
+      Web development · API · QA &amp; test automation<br><br>
+      <a href="https://github.com/Sushil045?tab=repositories">Browse repositories</a> · <a href="https://github.com/Sushil045#contribution-activity">GitHub activity</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><strong>Technical art · Game design &amp; programming · C++ · C# · Web development · API · QA &amp; test automation</strong></p>
+## Featured projects
 
-<p align="center">
-  <a href="https://github.com/Sushil045?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Repositories-161B22?style=flat-square&amp;logo=github&amp;logoColor=58A6FF"></a>
-  <a href="https://github.com/Sushil045?tab=overview"><img alt="View GitHub activity" src="https://img.shields.io/badge/GitHub%20activity-161B22?style=flat-square&amp;logo=github&amp;logoColor=58A6FF"></a>
-</p>
-
----
+| Project | What I worked on |
+| :-- | :-- |
+| **Dofida** | A cinematic web portfolio built with React and TypeScript, with a custom GLSL nebula and scroll-driven scenes. |
+| **[Utkarsh Barethiya’s cybersecurity portfolio](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site)** | A site I built to showcase Utkarsh’s cybersecurity work. |
+| **Crypto Wallet** | A software project exploring cryptocurrency wallets. |
 
 ## About me
 
 I'm Sushil, and I go by **XTREME** here. I'm learning how games go from an idea to something you can play, from game design and programming to technical art. I'm also pursuing web development and quality assurance (QA).
 
-## Experience
-
 **Global Step** · Game testing internship
-
-## Featured projects
-
-- **Dofida** · A cinematic portfolio built with React, TypeScript, and custom GLSL nebula effects.
-- [**Utkarsh Barethiya’s cybersecurity portfolio**](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site) · A portfolio website I built to showcase Utkarsh’s cybersecurity work.
-- **Crypto Wallet** · A software development project exploring cryptocurrency wallets.
 
 ## Skills
 
-- **Games:** Technical art, game design, and game programming
-- **Web:** Web development, UI/UX, and hands-on API work on Dofida
-- **Quality assurance:** Game testing, QA, and QA automation
+| Area | Focus |
+| :-- | :-- |
+| **Games** | Technical art, game design, game programming, C++, C# |
+| **Web** | Web development, UI/UX, API work on Dofida |
+| **QA** | Game testing, quality assurance, test automation |
