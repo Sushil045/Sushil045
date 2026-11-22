@@ -19,9 +19,11 @@ I'm Sushil, and I go by **XTREME** here. I'm learning how games go from an idea 
 
 **Global Step** · Game testing internship
 
-## Featured project
+## Featured projects
 
-**Crypto Wallet** · A software development project exploring cryptocurrency wallets.
+- **Dofida** · A cinematic portfolio built with React, TypeScript, and custom GLSL nebula effects.
+- [**Utkarsh Barethiya’s cybersecurity portfolio**](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site) · A portfolio website I built to showcase Utkarsh’s cybersecurity work.
+- **Crypto Wallet** · A software development project exploring cryptocurrency wallets.
 
 ## Skills
 
