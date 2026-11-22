@@ -7,7 +7,7 @@
       <strong>Sushil · XTREME</strong><br>
       Technical art · Game design &amp; programming · C++ · C#<br>
       Web development · API · QA &amp; test automation<br><br>
-      <a href="https://github.com/Sushil045?tab=repositories">Browse repositories</a> · <a href="https://github.com/Sushil045#contribution-activity">GitHub activity</a>
+      <a href="https://github.com/Sushil045?tab=repositories">Browse repositories</a> · <a href="https://github.com/Sushil045#js-contribution-activity">GitHub activity</a>
     </td>
   </tr>
 </table>
