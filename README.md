@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">XTREME</h1>
 
-<!--
-**Sushil045/Sushil045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>Game testing · Quality assurance · Software development</strong></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Sushil045?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Repositories-161B22?style=flat-square&amp;logo=github&amp;logoColor=58A6FF"></a>
+  <a href="https://github.com/Sushil045?tab=overview"><img alt="View GitHub activity" src="https://img.shields.io/badge/GitHub%20activity-161B22?style=flat-square&amp;logo=github&amp;logoColor=58A6FF"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm Sushil, and I go by **XTREME** on GitHub. My interests span game testing, UI/UX, and software development, with a focus on how games and apps feel to use.
+
+## Experience
+
+**Global Step** · Game testing internship
+
+## Featured project
+
+**Crypto Wallet** · A software development project exploring cryptocurrency wallets.
+
+## Areas of focus
+
+`Game testing` · `Quality assurance` · `UI/UX` · `Software development`
