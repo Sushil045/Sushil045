@@ -23,6 +23,8 @@ I'm Sushil, and I go by **XTREME** here. I'm learning how games go from an idea 
 
 **Crypto Wallet** · A software development project exploring cryptocurrency wallets.
 
-## Areas of focus
+## Skills
 
-`Game testing` · `Quality assurance` · `UI/UX` · `Software development`
+- **Games:** Technical art, game design, and game programming
+- **Web:** Web development, UI/UX, and hands-on API work on Dofida
+- **Quality assurance:** Game testing, QA, and QA automation
