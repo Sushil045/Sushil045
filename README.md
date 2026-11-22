@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm Sushil, and I go by **XTREME** on GitHub. I'm pursuing technical art, web development, game programming, game design, and quality assurance (QA). I'm interested in how these disciplines come together to make games and websites work well and feel good to use.
+I'm Sushil, and I go by **XTREME** here. I'm learning how games go from an idea to something you can play, from game design and programming to technical art. I'm also pursuing web development and quality assurance (QA).
 
 ## Experience
 
