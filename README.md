@@ -14,16 +14,36 @@
 
 ## Featured projects
 
-| Project | What I worked on |
-| :-- | :-- |
-| **Dofida** | A cinematic web portfolio built with React and TypeScript, with a custom GLSL nebula and scroll-driven scenes. |
-| **[Cybersecurity portfolio](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site)** | Portfolio design and development for a cybersecurity professional. |
-| **Personal portfolio** | Portfolio website design and development. |
-| **Crypto Wallet** | Designed Figma prototypes and manually tested transfers, QR scanning, and transaction history for an Ethereum wallet on web and mobile (Jun 2024–Mar 2025). |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dofida</h3>
+      <p>A cinematic web portfolio with a custom GLSL nebula and scroll-driven scenes.</p>
+      <kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>GLSL</kbd>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Crypto Wallet</h3>
+      <p>Designed Figma prototypes and manually tested transfers, QR scanning, and transaction history for an Ethereum wallet on web and mobile.</p>
+      <kbd>Figma</kbd> <kbd>Manual QA</kbd> <kbd>Jun 2024–Mar 2025</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site">Cybersecurity portfolio</a></h3>
+      <p>Designed and built a site to showcase a cybersecurity professional’s work.</p>
+      <kbd>Web design</kbd> <kbd>Development</kbd>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Personal portfolio</h3>
+      <p>Designed and developed a personal portfolio website.</p>
+      <kbd>Web design</kbd> <kbd>Development</kbd>
+    </td>
+  </tr>
+</table>
 
 ## About me
 
-I'm Sushil. I'm learning how games go from an idea to something you can play, from game design and programming to technical art. I'm also pursuing web development and quality assurance (QA).
+> I’m Sushil. I’m learning how games go from an idea to something you can play, from game design and programming to technical art. I’m also pursuing web development and quality assurance (QA).
 
 ## Experience
 
@@ -42,8 +62,8 @@ April–October 2024
 
 ## Skills
 
-| Area | Focus |
+| Area | Tools and practice |
 | :-- | :-- |
-| **Games** | Technical art, game design, game programming, Unreal Engine 5, Unity 6, Blender, C++, C# |
-| **Web** | Web development, UI/UX, API work on Dofida, Python, MySQL, Figma |
-| **QA** | Manual testing, test case design, regression and compatibility testing, game performance and network testing, Jira, TestRail, and test automation |
+| **Game development & technical art** | <kbd>C++</kbd> <kbd>C#</kbd> <kbd>Unreal Engine 5</kbd> <kbd>Unity 6</kbd> <kbd>Blender</kbd><br>Game design, game programming, and technical art |
+| **Web & UI/UX** | <kbd>Python</kbd> <kbd>MySQL</kbd> <kbd>Figma</kbd><br>Web development, UI/UX, and API work on Dofida |
+| **Quality assurance** | <kbd>Jira</kbd> <kbd>TestRail</kbd><br>Manual testing, test case design, regression and compatibility testing, game performance and network testing, and test automation |
