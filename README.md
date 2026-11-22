@@ -18,6 +18,7 @@
 | :-- | :-- |
 | **Dofida** | A cinematic web portfolio built with React and TypeScript, with a custom GLSL nebula and scroll-driven scenes. |
 | **[Utkarsh Barethiya’s cybersecurity portfolio](https://utkarsh-security-portfolio.sushilpawle123.chatgpt.site)** | A site I built to showcase Utkarsh’s cybersecurity work. |
+| **Abhi’s portfolio** | A portfolio website I built for Abhi. |
 | **Crypto Wallet** | A software project exploring cryptocurrency wallets. |
 
 ## About me
