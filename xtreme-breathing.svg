@@ -1,22 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="176" viewBox="0 0 800 176" role="img" aria-labelledby="title">
-  <title id="title">XTREME</title>
-  <defs>
-    <radialGradient id="halo">
-      <stop stop-color="#397ef5" stop-opacity=".62"/>
-      <stop offset="1" stop-color="#397ef5" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <style>
-    .pulse { opacity: .44; }
-    @media (prefers-reduced-motion: no-preference) {
-      .pulse { animation: breathe 5s ease-in-out infinite; }
-    }
-    @keyframes breathe { 0%, 100% { opacity: .22; } 50% { opacity: .95; } }
-  </style>
-  <rect x="1" y="1" width="798" height="174" rx="15" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <g class="pulse">
-    <ellipse cx="400" cy="86" rx="305" ry="78" fill="url(#halo)"/>
-    <path d="M344 127h112" stroke="#58a6ff" stroke-width="3" stroke-linecap="round"/>
-  </g>
-  <text x="404" y="103" text-anchor="middle" fill="#edf4ff" font-family="system-ui, sans-serif" font-size="54" font-weight="800" letter-spacing="8">XTREME</text>
+<title id="title">XTREME</title>
+<defs>
+<path id="word" fill-rule="evenodd" d="M147 57l23-9 24 31 39-35 14 2-38 49 24 30-22 8-21-26-41 29-19-3 43-42z M246 59l86-14-4 17-28 7-25 58-26 8 29-62-38 5z M328 61q49-25 65-10 16 15-24 44l22 30-20 9-27-33-14 28-23 4z M352 68l-9 20q26-10 34-23-8-4-25 3z M406 58l73-13-9 19-43 9-5 12 40-7-8 16-39 9-6 14 48-11-8 19-69 11z M480 65l24-16 13 40 38-42 21-1-20 80-24 10 14-50-34 34-12-3-10-28-15 40-23 7z M592 59l75-14-8 18-46 10-5 13 42-9-9 17-39 9-6 13 48-10-9 19-69 12z"/>
+<clipPath id="ink"><path clip-rule="evenodd" d="M147 57l23-9 24 31 39-35 14 2-38 49 24 30-22 8-21-26-41 29-19-3 43-42z M246 59l86-14-4 17-28 7-25 58-26 8 29-62-38 5z M328 61q49-25 65-10 16 15-24 44l22 30-20 9-27-33-14 28-23 4z M352 68l-9 20q26-10 34-23-8-4-25 3z M406 58l73-13-9 19-43 9-5 12 40-7-8 16-39 9-6 14 48-11-8 19-69 11z M480 65l24-16 13 40 38-42 21-1-20 80-24 10 14-50-34 34-12-3-10-28-15 40-23 7z M592 59l75-14-8 18-46 10-5 13 42-9-9 17-39 9-6 13 48-10-9 19-69 12z"/></clipPath>
+<radialGradient id="halo"><stop stop-color="#e38b14" stop-opacity=".55"/><stop offset="1" stop-color="#e38b14" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x2="0%" y2="100%"><stop stop-color="#fff5d8"/><stop offset=".48" stop-color="#ffd56e"/><stop offset="1" stop-color="#db851a"/></linearGradient>
+<linearGradient id="beam"><stop stop-color="#fff5d8" stop-opacity="0"/><stop offset=".5" stop-color="#fff5d8" stop-opacity=".8"/><stop offset="1" stop-color="#fff5d8" stop-opacity="0"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3h4" stroke="#2c1305" stroke-opacity=".19"/></pattern>
+<filter id="shimmer" x="-10%" y="-30%" width="120%" height="160%"><feTurbulence baseFrequency=".013 .08" numOctaves="2" seed="12" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="18" xChannelSelector="R" yChannelSelector="G"/></filter>
+</defs>
+<style>
+.pulse{opacity:.52}.flow,.ember{opacity:0}
+@media (prefers-reduced-motion:no-preference){.pulse{animation:breathe 5s ease-in-out infinite}.flow{opacity:1;animation:sweep 4.5s linear infinite}.ember{animation:rise 4.9s ease-out infinite}}
+@keyframes breathe{0%,100%{opacity:.26}50%{opacity:1}}
+@keyframes sweep{0%{transform:translateX(-170px)}72%,100%{transform:translateX(850px)}}
+@keyframes rise{0%,100%{opacity:0}27%{opacity:.88}92%,100%{transform:translateY(-46px);opacity:0}}
+</style>
+<rect x="1" y="1" width="798" height="174" rx="15" fill="#0c0d10" stroke="#393024" stroke-width="2"/>
+<g class="pulse"><ellipse cx="400" cy="91" rx="356" ry="82" fill="url(#halo)"/><path d="M302 150h196" stroke="#ffc83d" stroke-width="2" stroke-linecap="round"/></g>
+<use href="#word" fill="url(#gold)"/>
+<g clip-path="url(#ink)"><g class="flow"><path d="M42 32h94L96 144H2z" fill="url(#beam)" filter="url(#shimmer)"/></g><rect width="800" height="176" fill="url(#scan)"/></g>
+<g fill="#ffcb58"><rect class="ember" x="175" y="135" width="3" height="3" style="animation-delay:-0s"/>
+<rect class="ember" x="223" y="128" width="2" height="2" style="animation-delay:-0.43s"/>
+<rect class="ember" x="263" y="137" width="3" height="3" style="animation-delay:-0.86s"/>
+<rect class="ember" x="312" y="138" width="4" height="4" style="animation-delay:-1.29s"/>
+<rect class="ember" x="365" y="133" width="2" height="2" style="animation-delay:-1.72s"/>
+<rect class="ember" x="411" y="141" width="3" height="3" style="animation-delay:-2.15s"/>
+<rect class="ember" x="453" y="130" width="2" height="2" style="animation-delay:-2.58s"/>
+<rect class="ember" x="502" y="139" width="3" height="3" style="animation-delay:-3.01s"/>
+<rect class="ember" x="550" y="137" width="4" height="4" style="animation-delay:-3.44s"/>
+<rect class="ember" x="601" y="132" width="2" height="2" style="animation-delay:-3.87s"/>
+<rect class="ember" x="638" y="139" width="3" height="3" style="animation-delay:-4.3s"/></g>
 </svg>
