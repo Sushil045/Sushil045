@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./xtreme-breathing.svg" alt="XTREME" width="800"></h1>
 
-<p align="center"><img src="./xtreme-portrait.svg" alt="Sushil’s portrait with a breathing blue ring" width="176"></p>
+<p align="center"><img src="./xtreme-portrait.svg" alt="Sushil’s portrait with a breathing gold ring" width="176"></p>
 
 <p align="center"><strong>Game testing · Quality assurance · Software development</strong></p>
 
