@@ -1,4 +1,4 @@
-<h1 align="center">XTREME</h1>
+<h1 align="center"><img src="./xtreme-breathing.svg" alt="XTREME" width="800"></h1>
 
 <p align="center"><strong>Game testing · Quality assurance · Software development</strong></p>
 
