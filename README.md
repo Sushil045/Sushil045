@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm Sushil, and I go by **XTREME** on GitHub. My interests span game testing, UI/UX, and software development, with a focus on how games and apps feel to use.
+I'm Sushil, and I go by **XTREME** on GitHub. I'm pursuing technical art, web development, game programming, game design, and quality assurance (QA). I'm interested in how these disciplines come together to make games and websites work well and feel good to use.
 
 ## Experience
 
